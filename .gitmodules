@@ -1,3 +1,6 @@
 [submodule "postgres9.5.2-centos7/centos"]
 	path = postgres9.5.2-centos7/centos
 	url = https://github.com/boxcutter/centos.git
+[submodule "ubuntu"]
+	path = ubuntu
+	url = https://github.com/boxcutter/ubuntu.git
